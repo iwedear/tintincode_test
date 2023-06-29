@@ -1,3 +1,5 @@
+mod class_01;
+
 fn main() {
-    println!("Hello, world!");
+    class_01::class_test();
 }
